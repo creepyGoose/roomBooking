@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+br/com/eid/loja/BuildConfig.java
+ br.com.eid.loja.BuildConfig
+br/com/eid/loja/MainActivity.java
+ br.com.eid.loja.MainActivity

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "547808438439",
+    "project_id": "co-working-5899b",
+    "storage_bucket": "co-working-5899b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547808438439:android:36ebe636776050ee765382",
+        "android_client_info": {
+          "package_name": "br.com.eid.loja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "547808438439-a1klod0ostu5trd14ul1nuf1ibnkg3f8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPHbEZXKYPWG6fTrYZvTkQz9g-nnpjsZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "547808438439-a1klod0ostu5trd14ul1nuf1ibnkg3f8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
